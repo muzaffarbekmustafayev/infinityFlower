@@ -1,11 +1,21 @@
 
 
+```md
 # 🌸 Infinity Flower Animation
 
 An abstract **flower animation** created using HTML5 Canvas and Vanilla JavaScript.  
 The animation is driven by mathematical sine functions and Bézier curves, producing a smooth, symmetric, and infinite floral motion.
 
 This project explores the beauty of mathematics through visual art.
+
+---
+
+## 🚀 Live Demo
+
+👉 **View Live:** https://infinity-flower.vercel.app  
+
+The animation runs directly in the browser.  
+Click on the canvas to reset and redraw the flower.
 
 ---
 
@@ -60,7 +70,7 @@ infinityFlower/
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run Locally
 
 1. Clone the repository:
    ```bash
@@ -70,7 +80,7 @@ infinityFlower/
 2. Open the project folder
 3. Open `index.html` in any modern web browser
 
-No server or build process is needed.
+No server or build process is required.
 
 ---
 
@@ -84,7 +94,7 @@ No server or build process is needed.
 
 ## ⚙️ Customization
 
-You can easily modify the visual behavior by adjusting these variables in `script.js`:
+You can modify the visual behavior by adjusting these variables in `script.js`:
 
 ```js
 var petals = 7;   // Number of petals
@@ -119,4 +129,4 @@ You are free to use and modify it for personal or educational purposes.
 **Muzaffarbek Mustafayev**
 Software Engineer
 
-If you like this project, consider giving it a ⭐ on GitHub.
+If you like this project, feel free to give it a ⭐ on GitHub.
